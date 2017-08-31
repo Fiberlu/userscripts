@@ -1,7 +1,7 @@
 ﻿// ==UserScript==
 // @name         feedly.com
 // @namespace    https://github.com/Fiberlu/userscripts
-// @version      0.1
+// @version      0.2
 // @author       映阶碧草
 // @match        https://feedly.com/*
 // @grant        none
