@@ -1,4 +1,4 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name         feedly.com
 // @namespace    https://github.com/Fiberlu/userscripts
 // @version      0.1
