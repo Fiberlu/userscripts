@@ -8,7 +8,7 @@
 // ==/UserScript==
 
 {
-    var feelyTabsArea = document//.querySelector('#feedlyTabs')
+    var feelyTabsArea = document //.querySelector('#feedlyTabs')
     feelyTabsArea.addEventListener('click', collapseAllSiblingCategories)
 
     function collapseAllSiblingCategories(event) {
