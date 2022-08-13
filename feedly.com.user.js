@@ -4,7 +4,7 @@
 // @version      0.3
 // @author       映阶碧草
 // @match        https://feedly.com/*
-// @grant        none
+// @grant        none 
 // ==/UserScript==
 
 {
